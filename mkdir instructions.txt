@@ -1,0 +1,76 @@
+mkdir means make directory
+
+
+mas magaan sa ram ang sublime instead of vscode
+
+
+
+in sublime
+ctrl slash i scomments
+
+class vs id
+class - to group mga tag, kaya class it can group =
+ID - unique identification
+
+when uploading images, make sure to use lower case file name to avoid confusion by the machine.
+
+
+google fonts can be used then copy the link then paste in between the 
+
+title and head
+
+
+user number sign in CSS to call out 
+
+in css, sequence is nothing.
+
+ctrl + shift+ V to paste with style.
+
+
+go to getbootstrap.com
+go to v5.0.2
+copy CSS
+bootstrap CSS
+bootstrap JS bundle
+
+
+what is importntant in CSS "background color"
+
+
+
+from html
+add-fluid yung container sa class
+the use of fluid is to maximize the space
+
+bootstrap use in class attributes
+classes ang selector ng bostrap
+
+
+in the html-section class
+add text center mt-5 para maging gitna then add 5 spaces
+
+
+note: ang classes nasa unahan para mdaling matype, pero minsan lalo sa image kasunod lang yung class
+
+ang purpose ng img-fluid para hindi mag overflow, para hindi mag karon ng horizontal scroll/line
+
+vh = viewport height
+meaning kahit anung size ng window mag aadjust sya.
+
+justify content
+justify yung content ng horizontal
+
+git init meaning initialize
+
+
+bash here and type git init
+
+
+type git config --global user.name "jeromefrancisco1094"
+
+enter
+then 
+arrow up
+remove the username then enter to check if the username is already entered
+
+enter git status
